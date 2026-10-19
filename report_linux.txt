@@ -1,0 +1,11 @@
+============================================================
+LINUX SECURITY AUDIT REPORT
+Target Directory: /home/marcelo_oliveira/Documentos
+Generated at: 2026-10-18 02:53:37
+============================================================
+[+] Arquivo verificado: /etc/passwd | Permissões: 644
+[+] Arquivo verificado: /etc/shadow | Permissões: 640
+  ⚠️ ALERTA: /etc/shadow está com permissão arriscada (640)!
+
+Dangerous Permissions Scan (777) in /home/marcelo_oliveira/Documentos:
+[✓] Nenhum arquivo com permissão 777 encontrado no diretório analisado.
