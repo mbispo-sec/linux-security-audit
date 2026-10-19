@@ -1,4 +1,4 @@
-,# Linux Security Audit & Hardening Tool 🐧🛡️
+Linux Security Audit & Hardening Tool 🐧🛡️
 
 Uma ferramenta leve desenvolvida em Python para automatizar verificações de segurança e auditoria de permissões em sistemas Linux.
 
